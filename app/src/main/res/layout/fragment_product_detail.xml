@@ -9,7 +9,7 @@
         android:id="@+id/backToListButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Back to List"
+        android:text="@string/back_to_list"
         android:layout_centerInParent="true"
         android:layout_marginTop="16dp"/>
 
